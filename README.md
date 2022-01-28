@@ -14,5 +14,5 @@ PONG! is an addon for godot that lets you play PONG! right in your godot editor.
 3. ???
 4. PONG!
 
-## 🙌 Supporting this project
+## 🙌 Supporting this PONG!
 [![Buy me a coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?logo=buy-me-a-coffee&style=for-the-badge&logoColor=black)](https://www.buymeacoffee.com/nightglider)
