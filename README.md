@@ -10,7 +10,7 @@ PONG! is an addon for godot that lets you play PONG! right in your godot editor.
 
 ## Usage
 1. download this asset from godot asset library.
-2. turn on the plugin
+2. turn on the PONG!
 3. ???
 4. PONG!
 
