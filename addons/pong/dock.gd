@@ -32,7 +32,7 @@ func _process(delta):
 	$player.rect_position.x = get_local_mouse_position().x - $player.rect_size.x/2
 	$player.rect_position.x = clamp($player.rect_position.x, 0, rect_size.x - $player.rect_size.x)
 	
-	$ball.rect_position+=ball_direction*ball_speed
+	$ball.rect_position+=ball_direction*ball_speed*delta*OS.get_screen_refresh_rate()
 	
 	if $ball.rect_position.x <= 0:
 		ball_direction.x *= -1
